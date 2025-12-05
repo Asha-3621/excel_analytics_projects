@@ -1,6 +1,6 @@
 # **📊Sales and Finance Analytics in Excel**
 
-**💰 Finance Analytics**
+# **💰 Finance Analytics**
 
 This folder contains financial performance reports designed to evaluate revenue, cost, and profitability across multiple fiscal years. The analysis focuses on understanding how key financial metrics changed over time and how different periods contributed to overall results.
 (Reference: financial dataset. 
@@ -30,6 +30,9 @@ This folder contains financial performance reports designed to evaluate revenue,
 **🏁 Conclusion**
 
 The Finance Analytics files provide a reliable summary of profitability trends, margin behavior, and financial growth, supporting budgeting and long-term planning.
+
+**Reports**
+Sales Analytics/Customer Performance Vs Targets.pdf
 
 # **📈 Sales Analytics**
 
