@@ -61,7 +61,7 @@ This folder includes sales performance reports intended to measure how different
 
 The Sales Analytics reports provide a structured view of market performance, growth trends, and target alignment, enabling informed sales planning and monitoring.
 
-**🏨 Hospitality Analytics**
+# **🏨 Hospitality Analytics**
 
 This folder includes reports on booking platforms and property performance.
 
